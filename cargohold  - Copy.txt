@@ -1,0 +1,4 @@
+BodyArmor	1.0	1	1	1	equipable	1	true	1
+HealthKit	1.0	1	1	1	consumable	true	true	1
+M4A1	1.0	1	1	1	weapon	100	SemiAutomatic	false
+Axe	1.0	1	1	1	weapon	10	Wooden Axe	true

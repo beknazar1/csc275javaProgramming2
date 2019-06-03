@@ -1,0 +1,9 @@
+Eq1	1.0	1	1	1	equipable	1	true	1
+Eq2	1.0	1	1	1	equipable	1	true	1
+Eq3	1.0	1	1	1	equipable	1	true	1
+Eq4	1.0	1	1	1	equipable	1	true	1
+Eq5	1.0	1	1	1	equipable	1	true	1
+Eq6	1.0	1	1	1	equipable	1	true	1
+Eq7	1.0	1	1	1	equipable	1	true	1
+Eq8	1.0	1	1	1	equipable	1	true	1
+Aq9	1.0	1	1	1	equipable	1	true	1

@@ -1,0 +1,4 @@
+Boulder	150.0	1	1	1	equipable	1	true	1
+Stone	50.0	1	1	1	consumable	true	true	1
+Golden Axe	15.0	1000	1	1	weapon	1	Golden Axe	true
+Titanium Spear	10.0	200	1	1	weapon	10	Durable Spear	true
